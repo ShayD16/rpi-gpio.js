@@ -32,7 +32,7 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "async": "1.x",
-    "debug": "2.x",
+    "debug": "4.x",
     "epoll": "0.1.x"
   }
 }
